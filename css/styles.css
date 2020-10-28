@@ -1,6 +1,6 @@
 h1 {
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
 h2 {
@@ -14,11 +14,11 @@ h3 {
 }
 
 p {
-  color: black;
+  color: white;
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #36264C;
   font-family: serif;
   text-align: center;
 }
